@@ -1,4 +1,5 @@
 Flask==2.2.2
+Gunicorn
 numpy==1.23.1
 nibabel==4.0.1
 scipy==1.9.0
